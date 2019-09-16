@@ -34,3 +34,8 @@ a .fa-search{
 .fa-bars {
     font-size: 25px;
 }
+.right-icons,.left-icons{
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
